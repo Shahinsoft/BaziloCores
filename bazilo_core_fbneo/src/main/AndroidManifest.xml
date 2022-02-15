@@ -1,6 +1,6 @@
 
 <manifest xmlns:dist="http://schemas.android.com/apk/distribution"
-    package="com.swordfish.core.fbneo"
+    package="com.shahinsoft.core.fbneo"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
